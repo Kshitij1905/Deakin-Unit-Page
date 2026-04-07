@@ -22,12 +22,6 @@ div {
     text-align: right; 
 }
 
-.header {
-    background-color: darkcyan;
-    text-align: right;
-    padding: 10px;
-}
-
 th, td {
     padding: 8px;
     text-align: left;
